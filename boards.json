@@ -313,7 +313,7 @@
 	},
 	{
 		"id": "GENERIC",
-		"description": "Generic ESP32 board",
+		"description": "Generic ESP32 board ittisris",
 		"manufacturer": "Generic",
 		"brand": "",
 		"type": "GENERIC",
