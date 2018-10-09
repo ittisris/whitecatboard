@@ -334,5 +334,17 @@
 		"usb_vid_pid": "",
 		"usb_port_exp": "",
 		"image": ""
+	},
+	{
+		"id": "M5STACK",
+		"description": "M5STACK",
+		"manufacturer": "M5STACK",
+		"brand": "",
+		"type": "M5STACK",
+		"subtype": "",
+		"filesystem": "m5stack",
+		"usb_vid_pid": "",
+		"usb_port_exp": "",
+		"image": ""
 	}
 ]
