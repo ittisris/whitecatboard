@@ -340,7 +340,7 @@
 		"description": "M5STACK",
 		"manufacturer": "M5STACK",
 		"brand": "M5STACK",
-		"type": "ESP32",
+		"type": "M5STACK",
 		"subtype": "",
 		"filesystem": "m5stack",
 		"usb_vid_pid": "",
